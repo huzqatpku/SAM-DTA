@@ -1,0 +1,6 @@
+
+base: ['MultiTask_SMILES_CONV_401_3_1024_True_False_10_MSELoss_3072.yaml']
+model:
+    resume: output/MultiTask_SMILES_CONV_401_3_1024_True_False_10_MSELoss_3072/ckpts/epoch_9.pth
+dataset:
+    csv_path: ../dataset/smis.csv
