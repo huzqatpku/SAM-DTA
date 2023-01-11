@@ -3,7 +3,7 @@
 Code for paper SAM-DTA: A Sequence-Agnostic Model for Drug-Target Binding Affinity Prediction. 
 
 
-> [SAM-DTA: A Sequence-Agnostic Model for Drug-Target Binding Affinity Prediction](https://xxxxxxxxxx/) \
+> [SAM-DTA: A Sequence-Agnostic Model for Drug-Target Binding Affinity Prediction](https://doi.org/10.1093/bib/bbac533) \
 > Authors: Zhiqiang Hu, Wenfeng Liu, Chenbin Zhang, Jiawen Huang, Shaoting Zhang, Huiqun Yu, Yi Xiong, Hao Liu, Song Ke, Liang Hong \
 
 Contact: huzhiqiang@sensetime.com. Feel free to ask any questions or discussions!
